@@ -9,6 +9,8 @@
 **Install Note It**
 Run the installer file Note_It_Text_Editor_Installer.exe
 
+<img alt="img_installer.png" height="900" src="images/img_installer.png" width="900"/>
+
 **After installation search for Note It**
 
 <img alt="img.png" height="900" src="images/img.png" width="900"/>
